@@ -16,6 +16,8 @@ test/ → ffx/, gow/, kh/, gt4/, sotc/
 
 val/ → ffx/, gow/, kh/, gt4/, sotc/
 
+- The main code and dataset are also available on [Google Drive](https://drive.google.com/drive/folders/1Amdh_3ADGJPY7O4k6WBEPJTOwsF2Saom?hl=it).
+
 The project wants to highlight the potential of **transfer learning**: MobileNetV2 is a pre-trained model, which is proven to be efficient on extremely domain-specific applications, such as old generation videogames.
 
 The dataset used was limited and for demonstration use only, so the model's potential at larger scale is unknown. However, the process is designed to be generalizable, making it straightforward to expand the dataset and add new classes.
